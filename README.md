@@ -1,11 +1,12 @@
 ### Helllo everyone!  🧑🏼‍💻
 <br>
-
+<p>
 -  📲  I’m currently working using this technologies: Javascript, Typescript, Java and Flutter.
 -  💻  I still learning more about mobile development with Flutter.
 -  👀  If you're looking for someone to collaborate on mobile projects using this programming languages
 -  📫  feel free to contact me on my e-mail bellow.                                       
-
+</p>
+  
 ##
 
 <br> 
