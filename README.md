@@ -55,5 +55,7 @@
  <h3 align="left">Click below to play:</h3><hr>
 <a target="_blank" href="https://sarahcalbez.github.io/flappyBird/"> 
 
+ <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"/></a>
+
 </div>
   
