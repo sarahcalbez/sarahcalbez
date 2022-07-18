@@ -2,8 +2,8 @@
 <br>
 
 <p>
--  📲  I’m currently working using this technologies: Javascript, Typescript, Java and Flutter. <br>
--  💻  I'm still learning more about mobile development with Dart/Flutter. <br>
+-  💻  I’m currently working using this technologies: Javascript, Typescript, Java and Flutter. <br>
+-  📲  But my passion will always be the mobile development and I still learning Dart/Flutter. <br>
 -  👀  If you're looking for someone to collaborate on mobile projects using this programming languages <br>
 -  📫  feel free to contact me on my e-mail bellow. <br>                            
 </p>
