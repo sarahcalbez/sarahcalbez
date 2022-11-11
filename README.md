@@ -5,7 +5,7 @@
 💻 º  I’m currently working using this technologies: ReactJS, Javascript, Typescript and Java. <br>
 📲 º  I have plans to study more React Native in the future because the mobile development will always be my passion. <br>
 👀 º  If you're looking for someone to collaborate on this kind of projects <br>
-📫 º  feel free to contact me on my e-mail bellow. <br>                            
+📫 º  feel free to contact me anytime on my e-mail bellow. <br>                            
 </p>
   
 ##
