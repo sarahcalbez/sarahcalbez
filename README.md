@@ -19,7 +19,6 @@
   
 ##
   
-<img align="right" alt="sarah-gif" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_lXoDfg0d.png">
   
 <div>
   <a href="https://www.linkedin.com/in/sarahbezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
