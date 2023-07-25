@@ -35,8 +35,4 @@
   
 ##
 
-<div> 
 
-![Snake animation](https://github.com/sarahcalbez2/sarahcalbez2/blob/output/github-contribution-grid-snake.svg)
-
-</div>  
