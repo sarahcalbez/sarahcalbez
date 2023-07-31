@@ -3,8 +3,7 @@
 
 <p>
 💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android, Ios and Firebase . <br>
-📲   I also had a large experience developing web platforms using React JS, Typescript, Javascript, HTML/CSS, <br>
-     Java, Oracle and Postgresql. <br>
+📲   I also have a large experience developing with React JS, TS, JS, HTML/CSS, Java, Oracle and Postgresql. <br>
 👀   If you're looking for someone to collaborate on mobile projects <br>
 📫   feel free to contact me anytime on my e-mail bellow. <br>                            
 </p>
