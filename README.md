@@ -2,9 +2,9 @@
 <br>
 
 <p>
-💻   I’m currently working using this technologies: ReactJS, Javascript, Typescript and Java. <br>
-📲   I have plans to study more React Native in the future because the mobile development will always be my passion. <br>
-👀   If you're looking for someone to collaborate on this kind of projects <br>
+💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android, Ios and Firebase . <br>
+📲   I also had a large experience developing web platforms using React JS, Typescript, Javascript, HTML/CSS, Java, Oracle and Postgresql. <br>
+👀   If you're looking for someone to collaborate on mobile projects <br>
 📫   feel free to contact me anytime on my e-mail bellow. <br>                            
 </p>
   
