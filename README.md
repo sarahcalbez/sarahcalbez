@@ -8,7 +8,7 @@ feel free to contact me anytime, ok?<br/>
 </p>
 </h2>
 <h3>
-  About me
+  About 
 </h3>
 <p>
 💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android, iOS and Firebase . <br>
@@ -19,7 +19,7 @@ feel free to contact me anytime, ok?<br/>
   
 ##
 <h3>
-  Contact me
+  Contact 
 </h3>
   
 <div>
