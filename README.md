@@ -8,11 +8,12 @@ feel free to contact me anytime, ok?<br/>
 </p>
 </h2>
 <h3>
-  About 
+  About me
 </h3>
 <p>
 💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android and Firebase . <br>
-📲   I also have a large experience developing with React JS, TS, JS, HTML/CSS, Java, Oracle and Postgresql. <br>
+👩🏼‍💻   I also have a large experience developing for web platforms using React JS, TS, JS, Java, Oracle and Postgresql, <br>
+📱   but at the moment I'm focusing on Mobile development. <br>
 👀   If you're looking for someone to collaborate on mobile projects <br>
 📫   feel free to contact me anytime on my e-mail bellow. <br>                            
 </p>
@@ -39,12 +40,7 @@ feel free to contact me anytime, ok?<br/>
   <img align="center" alt="Sarah-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Sarah-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Sarah-androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Sarah-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sarah-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Git" eight="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Gitlab" eight="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-  <img align="center" alt="Sarah-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sarah-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
 ##
