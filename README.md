@@ -11,7 +11,7 @@ feel free to contact me anytime, ok?<br/>
   About 
 </h3>
 <p>
-💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android, iOS and Firebase . <br>
+💻   I’m currently working as mobile developer using Flutter, Dart, Kotlin Android and Firebase . <br>
 📲   I also have a large experience developing with React JS, TS, JS, HTML/CSS, Java, Oracle and Postgresql. <br>
 👀   If you're looking for someone to collaborate on mobile projects <br>
 📫   feel free to contact me anytime on my e-mail bellow. <br>                            
