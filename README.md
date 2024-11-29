@@ -39,11 +39,11 @@ feel free to contact me anytime, ok?<br/>
   <img align="center" alt="TypeScript" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Node" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Android" height="34" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
-  <img align="center" alt="Kotlin" height="26" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Sarah-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Sarah-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Sarah-androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Git" eight="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Kotlin" height="34" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Sarah-flutter" height="34" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="Sarah-dart" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Sarah-androidstudio" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Git" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
 ##
