@@ -34,6 +34,7 @@ feel free to contact me anytime, ok?<br/>
   <h3>
     I love to work with...
   </h3>
+  <img align="center" alt="React" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Android" height="34" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
   <img align="center" alt="Kotlin" height="26" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Sarah-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
