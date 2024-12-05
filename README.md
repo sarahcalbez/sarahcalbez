@@ -1,10 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=9cbff6&width=435&lines=Hi!+I'm+Sarah+Alencar" alt="Typing SVG" /></a>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=9cbff6&width=435&lines=Hi!+I'm+Sarah+Alencar" alt="Typing SVG" /></a></h1>
 
 <h2>
 <p>
-And I am happy to see you here!<br/>
-Take a look into my projects and please, <br/>
-feel free to contact me anytime, ok?<br/>
+Happy to see you here!<br/>
 </p>
 </h2>
 <h3>
