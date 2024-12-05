@@ -11,9 +11,10 @@ feel free to contact me anytime, ok?<br/>
   About me
 </h3>
 <p>
-💻   I’m currently working as Software developer and I've being using many different technologies until here, such as React, JS, TS, Java, Node.js, Flutter and Dart. <br>
-👩🏼‍💻   I also have experience with Firebase, Mongo, GoogleCloud, Oracle and Postgresql. <br>
-👀   What I am learning now? Everyone mothers is learning AI, so am I. <br>                        
+I’m currently working as Software developer and I've being using many different technologies until here, <br>
+such as React, JS, TS, Java, Node.js, Flutter and Dart. <br>
+I also have experience with Firebase, Mongo, GoogleCloud, Oracle and Postgresql. <br>
+What I am learning now? Everyone mothers is learning AI, so am I. <br>                        
 </p>
   
 ##
