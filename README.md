@@ -2,7 +2,7 @@
 
 <h2>
 <p>
-Happy to see you here!<br/>
+Happy to see you here! 👋🏻 👩🏼‍💻 <br/>
 </p>
 </h2>
 <h3>
