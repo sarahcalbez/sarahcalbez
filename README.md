@@ -2,7 +2,7 @@
 
 <h2>
 <p>
-And I am really happy to see you here!<br/>
+And I am happy to see you here!<br/>
 Take a look into my projects and please, <br/>
 feel free to contact me anytime, ok?<br/>
 </p>
@@ -11,10 +11,9 @@ feel free to contact me anytime, ok?<br/>
   About me
 </h3>
 <p>
-💻   I’m currently working as Software developer using React, JS, TS, Java, Node.js, Flutter and Dart. <br>
+💻   I’m currently working as Software developer and I've being using many different technologies until here, such as React, JS, TS, Java, Node.js, Flutter and Dart. <br>
 👩🏼‍💻   I also have experience with Firebase, Mongo, GoogleCloud, Oracle and Postgresql. <br>
-👀   If you're looking for someone to collaborate on your projects <br>
-📫   feel free to contact me anytime on my e-mail bellow. <br>                            
+👀   What I am learning now? Everyone mothers is learning AI, so am I. <br>                        
 </p>
   
 ##
