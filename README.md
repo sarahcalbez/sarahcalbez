@@ -9,9 +9,9 @@ Happy to see you here! 👋🏻 👩🏼‍💻 <br/>
   About me
 </h3>
 <p>
-🚀 Software Developer exploring the tech universe!<br>
-💻 Worked with React, JS, TS, Java, Node.js, Flutter, Dart, Firebase, MongoDB, and more.<br>
-☁️ Experienced with Google Cloud, Oracle, and PostgreSQL.<br>
+🚀 Software Developer exploring the tech universe and now diving into AI!<br>
+💻 Worked with React, JS, TS and Node.js.<br>
+☁️ Experienced with Firebase, Mongo, Streamlit, Google Cloud and PostgreSQL.<br>
 🤖 Currently diving into AI—because who isn’t? <br>                     
 </p>
   
