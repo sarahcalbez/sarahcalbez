@@ -9,7 +9,7 @@ Happy to see you here! 👋🏻 👩🏼‍💻 <br/>
   About me
 </h3>
 <p>
-🚀 Software Developer exploring the tech universe and diving into AI! <br>
+🚀 Software Engineer exploring the tech universe and diving into AI! <br>
 💻 Worked with React, JS, TS, and Node.js <br>
 ☁️ Experienced with Firebase, MongoDB, Streamlit, Google Cloud, and PostgreSQL <br>
 🤖 Currently diving into AI—because who isn’t? <br>                     
